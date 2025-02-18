@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer | Web Developer and Designer
 -------------------------------------------------
 
-I am a full-stack developer with a strong foundation in frontend engineering. Currently pursuing my Master’s in Computer Science at Northeastern University, I specialize in designing and building scalable, secure, and efficient web applications. With experience in Java, Python, JavaScript, Flask, React, and databases, I enjoy solving complex problems and optimizing performance. My expertise spans from developing RESTful APIs and database management to designing intuitive front-end interfaces with modern frameworks.
+I am a full-stack developer with a strong foundation in frontend engineering. Currently pursuing my Master’s in Computer Science at Northeastern University, I specialize in designing and building efficient web applications. 
+
+With experience in Java, Python, JavaScript, Flask, React, and databases, I enjoy solving complex problems and optimizing performance. My expertise spans from developing RESTful APIs and database management to designing intuitive front-end interfaces with modern frameworks.
 
 
 *   🌍  I'm based in Seattle, WA, USA
