@@ -10,7 +10,6 @@ With experience in Java, Python, JavaScript, Flask, React, and databases, I enjo
 
 
 *   🌍  I'm based in Seattle, WA, USA
-*   ✉️  You can contact me at [chichizhang20000510@gmail.com](mailto:chichizhang20000510@gmail.com)
 *   🧠  I'm learning Java and AWS.
 *   🤝  I'm open to collaborating on Full-stack web applications.
 *   ⚡  Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
