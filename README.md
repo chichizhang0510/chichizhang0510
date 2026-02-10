@@ -1,18 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chichi Zhang
 ====================================================================================================================================
 
-Full-Stack Developer | Web Developer and Designer
+Full-Stack Software Engineer | Scalable Systems & AI-Powered Applications
 -------------------------------------------------
 
-I am a full-stack developer with a strong foundation in frontend engineering. Currently pursuing my Master’s in Computer Science at Northeastern University, I specialize in designing and building efficient web applications. 
+I am a full-stack developer with a strong foundation in frontend and backend development. I am focused on building scalable, maintainable, and AI-powered software systems.
 
-With experience in Java, Python, JavaScript, Flask, React, and databases, I enjoy solving complex problems and optimizing performance. My expertise spans from developing RESTful APIs and database management to designing intuitive front-end interfaces with modern frameworks.
+Currently pursuing my Master’s in Computer Science at Northeastern University (Seattle), I work across the full stack while paying close attention to system design, CI/CD pipelines, and software delivery standards that enable teams to ship reliably and sustainably. I believe good engineering is not just about writing correct code, but about designing systems that can be tested, deployed, monitored, and evolved with confidence.
+
+Recently, my learning and projects have been centered around generative AI, exploring how modern AI models can be integrated into production-grade applications to enhance intelligence, automation, and user experience.
 
 
 *   🌍  I'm based in Seattle, WA, USA
-*   🧠  I'm learning Java and AWS.
-*   🤝  I'm open to collaborating on Full-stack web applications.
-*   ⚡  Passionate about building scalable software solutions with a focus on clean architecture and maintainability.
+*   🧠  I'm learning GenAI and Infra.
+*   🤝  I'm open to collaborating on Full-stack applications.
+*   ⚡  Passionate about building scalable, maintainable, and AI-powered software solutions.
 
 
 ### Skills 
