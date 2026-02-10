@@ -71,7 +71,10 @@ Recently, my learning and projects have been centered around generative AI, expl
   </a>
 </p>
 
-### Badges
-<a href="https://github.com/chichizhang0510" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chichizhang0510&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+### GitHub Profile
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chichizhang0510&theme=tokyonight" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=chichizhang0510&theme=tokyonight&hide_border=true"
+/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chichizhang0510&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chichizhang0510&theme=tokyonight" />
